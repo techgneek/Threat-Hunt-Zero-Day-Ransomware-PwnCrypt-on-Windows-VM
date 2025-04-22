@@ -4,6 +4,8 @@
 **Date:** April 21, 2025  
 **Lab Type:** Threat Hunting / Ransomware Detection / MITRE ATT&CK Mapping  
 
+![ChatGPT Image Apr 22, 2025, 01_46_57 AM](https://github.com/user-attachments/assets/aaac6f92-0404-4e30-af80-4e888852ef67)
+
 ---
 
 ## 🧠 Scenario Overview
